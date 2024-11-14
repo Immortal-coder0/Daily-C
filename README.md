@@ -1,2 +1,2 @@
 # Daily-C
-Daily practising C till oi master it. 
+Daily practising C till I master it. 
