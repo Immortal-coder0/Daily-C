@@ -5,3 +5,6 @@
   <img alt="Shows Immortalcoder0's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=default">
 </picture>
 </a>
+
+![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=neon#gh-light-mode-only)
