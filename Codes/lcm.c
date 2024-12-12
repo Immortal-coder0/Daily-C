@@ -19,7 +19,7 @@ int lcm(int a, int b)
 int main()
 {
     int num1, num2;
-    printf("Enter two numbers: ");
+    printf("Enter two numbers ");
     scanf("%d %d", &num1, &num2);
 
     printf("LCM of %d and %d is %d\n", num1, num2, lcm(num1, num2));
